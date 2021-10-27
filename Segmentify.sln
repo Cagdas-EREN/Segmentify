@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentifyUI", "SegmentifyUI\SegmentifyUI.csproj", "{1C0622DB-880E-4998-AEFE-78B28C9E7E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0622DB-880E-4998-AEFE-78B28C9E7E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0622DB-880E-4998-AEFE-78B28C9E7E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0622DB-880E-4998-AEFE-78B28C9E7E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0622DB-880E-4998-AEFE-78B28C9E7E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5289C3B9-6E7F-48A2-86A5-E7DAA619FCD5}
+	EndGlobalSection
+EndGlobal
